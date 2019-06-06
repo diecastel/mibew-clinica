@@ -73,7 +73,11 @@ msgstr "Leave your message"
 
 #: libs/chat.php:225
 msgid "Live support"
+<<<<<<< HEAD
 msgstr "Atendimento Online"
+=======
+msgstr "Live support"
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 
 #: libs/chat.php:411 libs/chat.php:564
 msgid "Guest"
@@ -222,7 +226,11 @@ msgstr "next"
 
 #: styles/chats/default/templates_src/client_side/chat/layout.handlebars:29
 msgid "Powered by:"
+<<<<<<< HEAD
 msgstr "  "
+=======
+msgstr "Powered by:"
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 
 #: styles/chats/default/templates_src/client_side/chat/message_form.handlebars:15
 msgid "Select answer..."

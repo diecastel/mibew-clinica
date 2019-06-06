@@ -27,7 +27,11 @@ body {
     font-family: Tahoma, sans-serif;
     line-height: 1;
     min-width: 500px;
+<<<<<<< HEAD
     background-color: white;
+=======
+    background-color: #f1f2f2;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 body.rtl {
     text-align: right;
@@ -67,16 +71,28 @@ img {
 #chat-header {
     position: relative;
     padding: 0 10px;
+<<<<<<< HEAD
     background: white url("images/chatheaderbg.gif") scroll repeat-x 0 0;
+=======
+    background: #f1f2f2 url("images/chatheaderbg.gif") scroll repeat-x 0 0;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     _zoom: 1; /* IE6 fix */
 }
 #chat {
     padding: 0 10px;
+<<<<<<< HEAD
     background: white;
 }
 #message {
     padding: 0 10px;
     background: white;
+=======
+    background: #f1f2f2;
+}
+#message {
+    padding: 0 10px;
+    background: #f1f2f2;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 #send {
     padding: 0 10px 5px;
@@ -85,7 +101,10 @@ img {
 #footer {
     margin: 0 auto;
     padding-top: 5px;
+<<<<<<< HEAD
     background: white;
+=======
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     padding-bottom: 5px;
     text-align: center;
     color: #999999;
@@ -111,7 +130,10 @@ img {
     font-size: 17px;
     font-family: Arial, sans-serif;
     color: #495151;
+<<<<<<< HEAD
     background: white;
+=======
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     padding: 10px 0;
 }
 #logo a {
@@ -243,6 +265,7 @@ a:hover .image-close-window {
     background: #ffffff url("images/chatbgl.gif") scroll repeat-y 0 0;
 }
 #chat .background-right {
+<<<<<<< HEAD
     background: white url("images/chatbgr.gif") scroll repeat-y 100% 0;
 }
 #chat .background-shady-center {
@@ -250,11 +273,24 @@ a:hover .image-close-window {
 }
 #chat .background-shady-left {
     background: white url("images/sdwbgl.png") scroll no-repeat 0 100%;
+=======
+    background: transparent url("images/chatbgr.gif") scroll repeat-y 100% 0;
+}
+#chat .background-shady-center {
+    background: transparent url("images/sdwbgc.png") scroll repeat-x 0 100%;
+}
+#chat .background-shady-left {
+    background: transparent url("images/sdwbgl.png") scroll no-repeat 0 100%;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 #chat .background-shady-right {
     position: relative;
     padding: 0 4px 40px;
+<<<<<<< HEAD
     background: white url("images/sdwbgr.png") scroll no-repeat 100% 100%;
+=======
+    background: transparent url("images/sdwbgr.png") scroll no-repeat 100% 100%;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     _zoom: 1; /* IE6 fix */
 }
 #status-region {
@@ -276,7 +312,10 @@ a:hover .image-close-window {
 .avatar {
     width: 100px;
     height: 100px;
+<<<<<<< HEAD
     background: white
+=======
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     margin: 10px 10px 0 10px;
     text-align: center;
     line-height: 0;
@@ -297,9 +336,14 @@ a:hover .image-close-window {
     min-height: 150px;
     overflow-y: auto;
     padding: 10px 10px 0;
+<<<<<<< HEAD
     background: white;
     font-weight: bolder;
     font-size: 12px;
+=======
+    font-weight: normal;
+    font-size: 10px;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     font-family: Tahoma, sans-serif;
     line-height: 1.8em;
     color: #999;
@@ -311,17 +355,28 @@ a:hover .image-close-window {
 #messages-region .message-hidden,
 #messages-region .message-event {
     font-size: 1.1em;
+<<<<<<< HEAD
     color: #7baa0f;
+=======
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 #messages-region .name-agent {
     font-size: 1.1em;
     font-weight: bold;
+<<<<<<< HEAD
     color: darkorange;
+=======
+    color: #000;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 #messages-region .name-user {
     font-size: 1.1em;
     font-weight: bold;
+<<<<<<< HEAD
     color: lightgreen;
+=======
+    color: #da251d;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
 }
 #messages-region .message-agent,
 #messages-region .message-user {
@@ -368,7 +423,11 @@ a:hover .image-close-window {
     line-height: 30px;
     text-align: center;
     text-decoration: none;
+<<<<<<< HEAD
     color: white;
+=======
+    color: #495151;
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     background: url("images/submit.gif") no-repeat 0 0 transparent;
 }
 #send-message:hover, .submit-button:hover {
@@ -481,7 +540,10 @@ ul li {
     margin: 0;
     padding: 0;
     border: 0;
+<<<<<<< HEAD
     background: white;
+=======
+>>>>>>> 5779c7a9ca9bd59801149d3ab15f6d5b7e54013e
     border-collapse: collapse;
     vertical-align: top;
 }
